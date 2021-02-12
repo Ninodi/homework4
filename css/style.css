@@ -55,3 +55,20 @@ p{
     text-decoration-line: underline;
     text-decoration-style: solid;
 }
+
+.contact{
+    border-top-style: solid;
+    border-color: #3D58A6;
+    border-width: 1px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+    font-size: 25px;
+    
+}
+
+.phone, .email{
+    color: #3D58A6;
+    margin-right: 15px;
+    -webkit-text-stroke: 1px #3D58A6;
+}
