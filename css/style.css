@@ -22,3 +22,36 @@ nav li{
 nav a:active, nav a:hover{
     color: #4AC20E;
 }
+
+article{
+    margin-bottom: 107px;
+}
+
+h1{
+    font-size: 30px;
+    border-style: solid;
+    border-width: 5px;
+    border-color: #4AC20E;
+    border-radius: 10px;
+    margin-right: 39px;
+    padding-left: 28px;
+}
+
+img{
+    margin-top: 10px;
+    margin-right: 70px;
+}
+
+p{
+    margin-top: 67px;
+    color: #3D58A6;
+    font-size: 22px;
+    margin-bottom: 50px;
+}
+
+.link{
+    font-size: 22px;
+    color: #3D58A6;
+    text-decoration-line: underline;
+    text-decoration-style: solid;
+}
